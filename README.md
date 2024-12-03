@@ -6,4 +6,5 @@ with a checkbox that presist during scroling
 if the downloaded code does not work get a new personal api key from https://www.omdbapi.com it will be sent to you by email
 
 <img src="https://github.com/user-attachments/assets/859bae54-56e0-475a-aaa8-60ba6395bc97" width="300"/>
-<img src="https://github.com/user-attachments/assets/859bae54-56e0-475a-aaa8-60ba6395bc97" width="300"/>
+
+<img src="https://github.com/user-attachments/assets/e18ec624-c88d-4da6-b562-815478f67ef6" width="300"/>
